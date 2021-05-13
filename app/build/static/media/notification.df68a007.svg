@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>Notification</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Notification" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <rect id="Rectangle-5" x="0" y="0" width="24" height="24"></rect>
+            <g id="notifications-button" transform="translate(4.000000, 3.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                <path d="M7.65882353,18 C8.64882353,18 9.45882353,17.19 9.45882353,16.2 L5.85882353,16.2 C5.85882353,17.19 6.66882353,18 7.65882353,18 Z M13.5088235,12.6 L13.5088235,7.65 C13.5088235,4.86 11.6188235,2.61 9.00882353,1.98 L9.00882353,1.35 C9.00882353,0.63 8.37882353,0 7.65882353,0 C6.93882353,0 6.30882353,0.63 6.30882353,1.35 L6.30882353,1.98 C3.69882353,2.61 1.80882353,4.86 1.80882353,7.65 L1.80882353,12.6 L0.00882352941,14.4 L0.00882352941,15.3 L15.3088235,15.3 L15.3088235,14.4 L13.5088235,12.6 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

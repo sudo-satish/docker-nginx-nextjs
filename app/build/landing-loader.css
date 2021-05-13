@@ -1,0 +1,13 @@
+#landingLoader {
+    position: fixed;
+    z-index: 999;
+    top: 0;
+    background: #fff;
+    width: 100%;
+    text-align: center;
+    height: 100%;
+    overflow: hidden;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}

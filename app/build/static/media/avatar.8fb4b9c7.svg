@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>User</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="User" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <rect id="Rectangle-4-Copy" x="0" y="0" width="24" height="24"></rect>
+            <g id="user-copy" transform="translate(5.000000, 3.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                <circle id="Oval" cx="7.36363636" cy="3.98863636" r="3.98863636"></circle>
+                <path d="M7.36363636,10.125 C3.29681003,10.125 0,13.42181 0,17.4886364 L14.7272727,17.4886364 C14.7272727,13.42181 11.4304627,10.125 7.36363636,10.125 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
